@@ -211,23 +211,6 @@ GenerateClassCluster=0
 DocumentUniqueId=HFJJDUDE
 
 [Document11]
-DocumentPath=AUDIO_CODEC.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=23
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=OXDRTTQA
-
-[Document12]
 DocumentPath=Controller.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -244,7 +227,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XFRVIQPE
 
-[Document13]
+[Document12]
 DocumentPath=USB.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -261,7 +244,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AFGCVHVP
 
-[Document14]
+[Document13]
 DocumentPath=INPUT_PROTECTION.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -278,7 +261,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JGKJWWLZ
 
-[Document15]
+[Document14]
 DocumentPath=..\..\..\..\..\batuh\Documents\ALTIUMUserLib\SMALL_BCMlib\Project Outputs for SMALL_BCM\SMALL_BCM.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -295,7 +278,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document16]
+[Document15]
 DocumentPath=..\..\..\..\..\batuh\Documents\ALTIUMUserLib\STM32F446ZET6\Project Outputs for STM32F446ZET6\STM32F446ZET6.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -312,7 +295,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document17]
+[Document16]
 DocumentPath=..\..\..\..\..\batuh\Documents\ALTIUMUserLib\STM32_Nucleo\Project Outputs for MB1137\MB1137.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -329,7 +312,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document18]
+[Document17]
 DocumentPath=..\SOURCE_SEM_DIO_R3.1_15092021\SEM_DIO_R3.1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -346,7 +329,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document19]
+[Document18]
 DocumentPath=DISCRETE_INPUT.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -363,7 +346,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EMYUTAUW
 
-[Document20]
+[Document19]
 DocumentPath=DISCRETE_OUT.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -380,24 +363,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PWLQRRUO
 
-[Document21]
-DocumentPath=AUDIO_AMP.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=29
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=DFIZNAYO
-
-[Document22]
+[Document20]
 DocumentPath=SMALL_BCM.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -414,7 +380,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ETILIWEI
 
-[Document23]
+[Document21]
 DocumentPath=..\DIO_SLAVE_R.4.0_SOURCE_FILES\SEM_DIO_SLAVE_R3.0.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -431,7 +397,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WQEIXXQX
 
-[Document24]
+[Document22]
 DocumentPath=..\..\..\..\..\batuh\Documents\ALTIUMUserLib\ECU\Project Outputs for ECU\ECU.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -448,14 +414,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document25]
+[Document23]
 DocumentPath=Voltage_conversion.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=29
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
