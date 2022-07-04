@@ -126,6 +126,23 @@ GenerateClassCluster=0
 DocumentUniqueId=LRJOBWWX
 
 [Document6]
+DocumentPath=Voltage_conversion.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=2
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=CJOGPOVO
+
+[Document7]
 DocumentPath=ANALOG_MUX.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -142,7 +159,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IVVNTVDI
 
-[Document7]
+[Document8]
 DocumentPath=F_BRIDGE.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -159,7 +176,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DOCUTCNS
 
-[Document8]
+[Document9]
 DocumentPath=H_BRIDGE.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -176,7 +193,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KXMXTDJZ
 
-[Document9]
+[Document10]
 DocumentPath=HS_SW.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -193,7 +210,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SYQTZWJF
 
-[Document10]
+[Document11]
 DocumentPath=CAN.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -209,23 +226,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HFJJDUDE
-
-[Document11]
-DocumentPath=Controller.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=24
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=XFRVIQPE
 
 [Document12]
 DocumentPath=USB.SchDoc
@@ -262,74 +262,6 @@ GenerateClassCluster=0
 DocumentUniqueId=JGKJWWLZ
 
 [Document14]
-DocumentPath=..\..\..\..\..\batuh\Documents\ALTIUMUserLib\SMALL_BCMlib\Project Outputs for SMALL_BCM\SMALL_BCM.IntLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document15]
-DocumentPath=..\..\..\..\..\batuh\Documents\ALTIUMUserLib\STM32F446ZET6\Project Outputs for STM32F446ZET6\STM32F446ZET6.IntLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document16]
-DocumentPath=..\..\..\..\..\batuh\Documents\ALTIUMUserLib\STM32_Nucleo\Project Outputs for MB1137\MB1137.IntLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document17]
-DocumentPath=..\SOURCE_SEM_DIO_R3.1_15092021\SEM_DIO_R3.1.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document18]
 DocumentPath=DISCRETE_INPUT.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -346,7 +278,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EMYUTAUW
 
-[Document19]
+[Document15]
 DocumentPath=DISCRETE_OUT.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -363,7 +295,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PWLQRRUO
 
-[Document20]
+[Document16]
 DocumentPath=SMALL_BCM.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -380,42 +312,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ETILIWEI
 
-[Document21]
-DocumentPath=..\DIO_SLAVE_R.4.0_SOURCE_FILES\SEM_DIO_SLAVE_R3.0.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=WQEIXXQX
-
-[Document22]
-DocumentPath=..\..\..\..\..\batuh\Documents\ALTIUMUserLib\ECU\Project Outputs for ECU\ECU.IntLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document23]
-DocumentPath=Voltage_conversion.SchDoc
+[Document17]
+DocumentPath=Controller.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -429,7 +327,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=CJOGPOVO
+DocumentUniqueId=XFRVIQPE
 
 [ProjectVariant1]
 UniqueID=FD00C755-BA61-4E9B-8088-727D0FA86B64
@@ -1034,6 +932,36 @@ OutputName11=Specctra Design PCB
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
+OutputType12=Ansoft Neutral
+OutputName12=Ansoft Neutral (AutoPCB)
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=HyperLynx
+OutputName13=HyperLynx (AutoPCB)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=Orcad v7 Capture Design
+OutputName14=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=P-CAD ASCII
+OutputName15=P-CAD ASCII (AutoPCB)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=P-CAD V16 Schematic Design
+OutputName16=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=SiSoft
+OutputName17=SiSoft (AutoPCB)
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
@@ -1172,14 +1100,14 @@ Type1=1
 Type2=1
 Type3=1
 Type4=1
-Type5=1
+Type5=0
 Type6=1
 Type7=1
 Type8=1
 Type9=1
 Type10=1
 Type11=1
-Type12=1
+Type12=0
 Type13=1
 Type14=1
 Type15=1
@@ -1189,7 +1117,7 @@ Type18=1
 Type19=1
 Type20=1
 Type21=1
-Type22=1
+Type22=0
 Type23=1
 Type24=1
 Type25=1
